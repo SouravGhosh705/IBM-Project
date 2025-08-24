@@ -39,7 +39,7 @@ We developed a **multi-class classification ML model** to predict the most suita
 ## ⚙️ Model Performance
 | Metric          | Score   |
 |-----------------|---------|
-| Accuracy        | 99.04%  |
+| Accuracy        | 98.04%  |
 | Precision       | ~99%    |
 | Recall          | ~99%    |
 
@@ -57,5 +57,5 @@ We developed a **multi-class classification ML model** to predict the most suita
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
+https://github.com/SouravGhosh705/IBM-Project.git
 
-  https://github.com/SouravGhosh705/IBM-Project.git

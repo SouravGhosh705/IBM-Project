@@ -57,5 +57,7 @@ We developed a **multi-class classification ML model** to predict the most suita
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-https://github.com/SouravGhosh705/IBM-Project.git
+   git clone https://github.com/SouravGhosh705/IBM-Project.git
+
+
 
